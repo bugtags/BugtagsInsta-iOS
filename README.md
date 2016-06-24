@@ -7,7 +7,7 @@ BugtagsInsta for iOS, a powerful plugin for [Bugtags SDK](https://github.com/bug
 3. Real-time monitor user operate steps.
 4. Real-time monitor network reqeust data.
 
-Learn more : https://docs.bugtags.com/zh/bugtagsinsta/index.html
+Learn more: https://docs.bugtags.com/zh/bugtagsinsta/index.html
 
 ## Requirements
 

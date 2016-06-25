@@ -11,7 +11,7 @@ Learn more: https://docs.bugtags.com/zh/bugtagsinsta/index.html
 
 ## Requirements
 
-BugtagsInsta requires iOS 6.0 and above.
+BugtagsInsta requires iOS 7.0 and above.
 
 ## Installation
 

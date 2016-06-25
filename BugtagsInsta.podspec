@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
       LICENSE
     }
   s.author              = { "Bugtags" => "dev@bugtags.com" }
-  s.platform            = :ios, '6.0'
+  s.platform            = :ios, '7.0'
   s.source              = { :git => "https://github.com/bugtags/BugtagsInsta-iOS.git", :tag => s.version.to_s }
   s.source_files        = 'BugtagsInsta.framework/Versions/A/Headers/*.{h}'
   s.preserve_paths      = 'BugtagsInsta.framework/*'

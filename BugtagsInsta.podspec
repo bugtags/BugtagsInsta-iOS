@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BugtagsInsta"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "A powerful plugin for Bugtags SDK，monitor your mobile app in real-time. Learn more at http://bugtags.com."
   s.homepage     = "http://bugtags.com/"
   s.license      = {

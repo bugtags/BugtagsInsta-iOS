@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BugtagsInsta"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "A powerful plugin for Bugtags SDK，monitor your mobile app in real-time. Learn more at http://bugtags.com."
   s.homepage     = "http://bugtags.com/"
   s.license      = {
@@ -28,5 +28,5 @@ Pod::Spec.new do |s|
   s.libraries           = 'z'
   s.xcconfig            =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/BugtagsInsta/"'}
   s.requires_arc        = true
-  s.dependency 'Bugtags', '~> 1.2.8'
+  s.dependency 'Bugtags', '>= 1.3.0'
 end

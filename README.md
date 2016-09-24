@@ -18,6 +18,6 @@ BugtagsInsta requires iOS 7.0 and above.
 BugtagsInsta is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-```ruby
-pod 'BugtagsInsta', '~> 1.0.5'
+``` ruby
+pod 'BugtagsInsta'
 ```
